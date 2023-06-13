@@ -1,0 +1,25 @@
+{
+  "name": "authification-templates",
+  "version": "0.0.1",
+  "description": "Creating constructor for forms",
+  "main": "main-template.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samthezpub/Authentication-templates.git"
+  },
+  "keywords": [
+    "forms",
+    "html",
+    "css",
+    "template"
+  ],
+  "author": "Zpub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samthezpub/Authentication-templates/issues"
+  },
+  "homepage": "https://github.com/samthezpub/Authentication-templates#readme"
+}

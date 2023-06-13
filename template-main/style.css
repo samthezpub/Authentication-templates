@@ -1,0 +1,22 @@
+/* Full screen background */
+/* const */
+/* const */
+body {
+  /* Full screen background */
+  margin: 0;
+  background: linear-gradient(90deg, #5ea155, #0087d7, #ef97f1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  /* Center block #auth */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Make full screen size container */
+  width: 100vw;
+  height: 100vh;
+}
+
+#auth {
+  min-width: 30vw;
+  min-height: 40vh;
+  border: 1px solid black;
+  background-color: grey;
+}/*# sourceMappingURL=style.css.map */
